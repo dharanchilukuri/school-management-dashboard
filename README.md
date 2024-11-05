@@ -1,5 +1,4 @@
-https://school-management-dashboard-mauve.vercel.app/teacher-dashboard/timetable
-
+https://school-management-dashboard-mauve.vercel.app/
 
 
 # React + Vite
